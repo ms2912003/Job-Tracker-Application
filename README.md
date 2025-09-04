@@ -15,6 +15,8 @@ Users can add, edit, delete, export, and import job applications with persistenc
 
 📥 Import job applications from a .json file
 
+📊 Status Overview Chart (Pie/Bar chart of job statuses)
+
 🌙 Clean UI built with Tailwind CSS v3
 
 🔗 Navigation with React Router
