@@ -17,7 +17,7 @@ Users can add, edit, delete, export, and import job applications with persistenc
 
 📊 Status Overview Chart (Pie/Bar chart of job statuses)
 
-🌙 Clean UI built with Tailwind CSS v3
+🎨 Clean UI built with Tailwind CSS v3
 
 🔗 Navigation with React Router
 
